@@ -10,7 +10,7 @@ exports.AppComponent = void 0;
 var core_1 = require("@angular/core");
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
-        this.title = 'ng-arab-test';
+        this.title = 'ng-arab';
     }
     AppComponent = __decorate([
         core_1.Component({
